@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/img/about-BY-gentle.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-by.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/avatar_g.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/avatar_m.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-BJJ.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-coffee.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-cook.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-debug.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-desk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-github-cup.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-hacker.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ios10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ioses.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-keybord.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-kuaidi.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-map.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-os-metro.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-rwd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-swift2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-universe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/readme-home.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/readme-side.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,8 +51,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BY_bolg_logo.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BY_bolg_logo.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/BY_bolg_logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/favicon.ico">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -382,12 +342,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554053372104</updated>
       <workItem from="1554053373321" duration="941000" />
-      <workItem from="1554127814636" duration="2089000" />
+      <workItem from="1554127814636" duration="2428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3030000" />
+    <option name="totallyTimeSpent" value="3369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1005" y="23" width="1065" height="1063" extended-state="0" />
@@ -698,17 +658,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/BY_bolg_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
