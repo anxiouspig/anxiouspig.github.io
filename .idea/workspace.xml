@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_posts/2016-01-06-测试.md" afterPath="$PROJECT_DIR$/_posts/2016-01-06-测试.md" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-测试.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="16643">
-                <caret line="979" column="0" lean-forward="true" selection-start-line="979" selection-start-column="0" selection-end-line="979" selection-end-column="0" />
+              <first_editor relative-caret-position="811">
+                <caret line="555" column="0" lean-forward="true" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -30,8 +29,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="-464">
+              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -201,6 +200,11 @@
             <path>
               <item name="dabiezi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dabiezi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dabiezi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dabiezi.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="pwa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -333,12 +337,12 @@
       <workItem from="1554053373321" duration="941000" />
       <workItem from="1554127814636" duration="3395000" />
       <workItem from="1554222222092" duration="962000" />
-      <workItem from="1554298063335" duration="5566000" />
+      <workItem from="1554298063335" duration="5663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10864000" />
+    <option name="totallyTimeSpent" value="10961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1435" height="1063" extended-state="0" />
@@ -358,7 +362,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25714287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -645,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="-464">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -654,8 +658,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="16643">
-            <caret line="979" column="0" lean-forward="true" selection-start-line="979" selection-start-column="0" selection-end-line="979" selection-end-column="0" />
+          <first_editor relative-caret-position="811">
+            <caret line="555" column="0" lean-forward="true" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
