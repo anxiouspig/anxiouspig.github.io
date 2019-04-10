@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 6f931c0c961fb5daf3fe                            #生成的clientID
-  clientSecret: daef95a29e34c51470ae840b5153a353d2d44c33    #生成的clientSecret
+  clientID: c983fc97fd8703ea73ad                            #生成的clientID
+  clientSecret: f436a2112652ff3f26870b4ad11261285f7e9572    #生成的clientSecret
   repo: dabiezi.github.io    #仓库名称
   owner: dabiezi    #github用户名
   admin: dabiezi
