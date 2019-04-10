@@ -1,10 +1,10 @@
 # Site settings
-title: Dabiezi
-SEOTitle: Dabiezi
+title: 渣子哥
+SEOTitle: 渣子哥 | Dabiezi
 header-img: img/post-bg-desk.jpg
 email: xuxuffcc@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Dabiezi"
+keyword: "渣子哥, Dabiezi"
 url: "http://dabiezi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/dabiezi/dabiezi.github.io.git" # you code repository
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-137503773-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.dabiezi.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: zhazige.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
