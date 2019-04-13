@@ -3,7 +3,7 @@ title: 渣子哥 | Dabiezi
 SEOTitle: 渣子哥 | Dabiezi
 header-img: img/post-bg-desk.jpg
 email: xuxuffcc@gmail.com
-description: "Every failure is leading towards success."
+description: ""
 keyword: "渣子哥, Dabiezi"
 url: "http://dabiezi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/dabiezi/dabiezi.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "减肥 学习"
 sidebar-avatar: /img/about-D-gentle.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
