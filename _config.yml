@@ -11,7 +11,7 @@ github_repo: "https://github.com/dabiezi/dabiezi.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "2019/4/25开始拒绝拖延症"
+sidebar-about-description: "https://leetcode-cn.com/zhazige/"
 sidebar-avatar: /img/about-D-gentle.jpeg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
