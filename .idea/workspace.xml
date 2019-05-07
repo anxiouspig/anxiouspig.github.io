@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pexels-photo-2187421.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pexels-photo-2246950.jpeg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/tags.html" afterPath="$PROJECT_DIR$/tags.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/pexels-photo-2131801.jpeg" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,9 +49,9 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-07-工厂模式.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-14-策略模式.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/tags.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -326,12 +323,12 @@
       <workItem from="1556194398109" duration="1297000" />
       <workItem from="1556979574979" duration="121000" />
       <workItem from="1557042675830" duration="3406000" />
-      <workItem from="1557233328391" duration="1609000" />
+      <workItem from="1557233328391" duration="1939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33782000" />
+    <option name="totallyTimeSpent" value="34112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="673" y="23" width="1354" height="1063" extended-state="0" />
@@ -636,8 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
           <folding />
         </state>
       </provider>
