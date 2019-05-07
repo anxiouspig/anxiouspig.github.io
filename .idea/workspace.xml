@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/U94B4HVBAO.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/animal-africa-giraffe.jpg" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-art.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-BJJ.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-alibaba.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-android.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-coffee.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-cook.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-debug.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-digital-native.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-e2e-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-github-cup.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-hacker.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-iWatch.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ios10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-ioses.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui-ux.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-miui6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-0.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-mma-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg-o.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -356,12 +322,12 @@
       <workItem from="1556194398109" duration="1297000" />
       <workItem from="1556979574979" duration="121000" />
       <workItem from="1557042675830" duration="3406000" />
-      <workItem from="1557233328391" duration="561000" />
+      <workItem from="1557233328391" duration="732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32734000" />
+    <option name="totallyTimeSpent" value="32905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="673" y="23" width="1354" height="1063" extended-state="1" />
@@ -664,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
           <folding />
         </state>
       </provider>
