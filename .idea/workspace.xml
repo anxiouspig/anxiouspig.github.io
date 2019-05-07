@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pexels-photo-2131801.jpeg" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -323,12 +322,12 @@
       <workItem from="1556194398109" duration="1297000" />
       <workItem from="1556979574979" duration="121000" />
       <workItem from="1557042675830" duration="3406000" />
-      <workItem from="1557233328391" duration="1939000" />
+      <workItem from="1557233328391" duration="2046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34112000" />
+    <option name="totallyTimeSpent" value="34219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="673" y="23" width="1354" height="1063" extended-state="0" />
@@ -605,11 +604,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/animal-africa-giraffe.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -637,6 +631,11 @@
           <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/animal-africa-giraffe.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
