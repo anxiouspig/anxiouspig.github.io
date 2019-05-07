@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pexels-photo-1936936.jpeg" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-策略模式.md" afterPath="$PROJECT_DIR$/_posts/2019-04-14-策略模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-05-观察者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-05-05-观察者模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-07-工厂模式.md" afterPath="$PROJECT_DIR$/_posts/2019-05-07-工厂模式.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/img/post-bg-ios9-web.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,7 +84,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="673" />
     <option name="y" value="23" />
     <option name="width" value="1354" />
@@ -181,11 +178,6 @@
               <item name="dabiezi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dabiezi.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dabiezi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dabiezi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,15 +318,15 @@
       <workItem from="1556194398109" duration="1297000" />
       <workItem from="1556979574979" duration="121000" />
       <workItem from="1557042675830" duration="3406000" />
-      <workItem from="1557233328391" duration="3038000" />
+      <workItem from="1557233328391" duration="3763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35211000" />
+    <option name="totallyTimeSpent" value="35936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="673" y="23" width="1354" height="1063" extended-state="1" />
+    <frame x="673" y="23" width="1354" height="1063" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -430,11 +422,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-desk.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/post-bg-ios10.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -451,16 +438,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/post-bg-js-version.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-keybord.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -765,7 +742,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-工厂模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
@@ -776,11 +753,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-07-工厂模式.md">
+    <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-keybord.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post-bg-desk.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
