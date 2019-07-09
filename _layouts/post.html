@@ -230,38 +230,4 @@ layout: default
     }
 </style>
 
-<script src="./L2Dwidget.min.js"></script>
-
-<script>
-  window.onload = function(){
-    const dir = `./live2d-widget-model-haru/02/assets/haru02.model.json`
-    L2Dwidget.init(getOptions(dir))
-  }
-</script>
-<script>
-  function getOptions(dir) {
-    return {
-      model: {
-        jsonPath: dir,
-      },
-      display: {
-        superSample: 2,
-        width: 80,
-        height: 160,
-        position: 'right',
-        hOffset: 0,
-        vOffset: 0,
-      },
-      mobile: {
-        show: true,
-        scale: 1,
-        motion: true,
-      },
-      react: {
-        opacityDefault: 0.85,
-        opacityOnHover: 0.2,
-      },
-    }
-  }
-</script>
 {% endif %}
