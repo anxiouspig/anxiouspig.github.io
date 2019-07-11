@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-红黑树.md" afterPath="$PROJECT_DIR$/_posts/2019-06-30-红黑树.md" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-AVl.md" afterPath="$PROJECT_DIR$/_posts/2019-06-30-AVl.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-30-并查集.md" afterPath="$PROJECT_DIR$/_posts/2019-06-30-并查集.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -187,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +199,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
@@ -353,6 +353,7 @@
       <workItem from="1558145103293" duration="8206000" />
       <workItem from="1561888647609" duration="2883000" />
       <workItem from="1561908261553" duration="15000" />
+      <workItem from="1562849245575" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="更新文章">
       <created>1557677661257</created>
@@ -372,11 +373,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62008000" />
+    <option name="totallyTimeSpent" value="62012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="855" y="23" width="1166" height="1063" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
