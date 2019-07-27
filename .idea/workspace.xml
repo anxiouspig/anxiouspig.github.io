@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-中介者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-中介者模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-原型模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-原型模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-生成器模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-生成器模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-蝇量模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-蝇量模式.md" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-责任链模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-责任链模式.md" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
