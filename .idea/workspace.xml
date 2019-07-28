@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="" />
+    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-14-策略模式.md" afterPath="$PROJECT_DIR$/_posts/2019-04-14-策略模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-05-观察者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-05-05-观察者模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-05-06-装饰者模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-备忘录模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-备忘录模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-桥接模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-桥接模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-解释器模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-解释器模式.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-25-访问者模式.md" afterPath="$PROJECT_DIR$/_posts/2019-07-25-访问者模式.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -703,8 +711,8 @@
         <state relative-caret-position="95">
           <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding>
-            <element signature="e#939#945#0" expanded="true" />
-            <element signature="e#1149#1155#0" expanded="true" />
+            <element signature="e#939#945#0" expanded="false" />
+            <element signature="e#1149#1155#0" expanded="false" />
           </folding>
         </state>
       </provider>
