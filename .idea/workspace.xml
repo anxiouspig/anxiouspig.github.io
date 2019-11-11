@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="" />
+    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -59,6 +61,30 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-18-网络的构成要素.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-18-网络硬件通用基础知识.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-LinkedList.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-LinkedHashSet.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-12-LinkedHashMap.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-ArrayDeque.md" />
+        <option value="$PROJECT_DIR$/_posts/BitSet.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-TreeSet.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-Hashtable.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-Vector.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-HashSet.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-ArrayList.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-HashMap.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-TreeMap.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-PriorityQueue.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-Stack.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-StampedLock.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-ReentrantReadWriteLock.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-AbstractQueuedSynchronizer.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-ReentrantLock.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-CyclicBarrier.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-Semaphore.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-CountDownLatch.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-FutureTask.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-AtomicMarkableReference.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-11-AtomicStampedReference.md" />
       </list>
     </option>
   </component>
@@ -92,8 +118,9 @@
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="958" />
     <option name="y" value="23" />
-    <option name="width" value="1061" />
+    <option name="width" value="1090" />
     <option name="height" value="1063" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -172,6 +199,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,14 +210,15 @@
               <item name="zhazige.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhazige.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zhazige.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhazige.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,6 +375,9 @@
       <workItem from="1564064661196" duration="885000" />
       <workItem from="1564154966407" duration="1220000" />
       <workItem from="1564658431840" duration="16000" />
+      <workItem from="1565797999600" duration="18000" />
+      <workItem from="1573478711183" duration="1621000" />
+      <workItem from="1573480470903" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="更新文章">
       <created>1557677661257</created>
@@ -362,10 +397,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64860000" />
+    <option name="totallyTimeSpent" value="67118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1061" height="1063" extended-state="0" />
+    <frame x="958" y="23" width="1090" height="1063" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -379,7 +414,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21960415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29293892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -440,108 +475,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-os-metro.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-rwd.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-swift.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-swift2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-universe.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-sample-image.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-YesOrNo.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/tag-bg-o.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/tag-bg.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-unix-linux.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/U94B4HVBAO.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/nature-brook-creek-stream.jpg" />
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/animal-africa-giraffe.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2131772.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2123060.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2131801.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2187421.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2222452.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-2246950.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/pexels-photo-1936936.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-keybord.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/post-bg-desk.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -703,6 +636,549 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-26-过滤器模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+            <folding>
+              <marker date="1564233663517" expanded="true" signature="292:305" ph="/**...*/" />
+              <marker date="1564233663517" expanded="true" signature="333:354" ph="/**...*/" />
+              <marker date="1564233663517" expanded="true" signature="385:406" ph="/**...*/" />
+              <marker date="1564233663517" expanded="true" signature="443:464" ph="/**...*/" />
+              <marker date="1564233663517" expanded="true" signature="553:650" ph="{...}" />
+              <marker date="1564233663517" expanded="false" signature="679:690" ph=" { " />
+              <marker date="1564233663517" expanded="false" signature="702:708" ph=" }" />
+              <marker date="1564233663517" expanded="false" signature="743:754" ph=" { " />
+              <marker date="1564233663517" expanded="false" signature="772:778" ph=" }" />
+              <marker date="1564233663517" expanded="false" signature="807:818" ph=" { " />
+              <marker date="1564233663517" expanded="false" signature="830:836" ph=" }" />
+              <marker date="1564233663517" expanded="true" signature="854:870" ph="/**...*/" />
+              <marker date="1564233663517" expanded="true" signature="967:993" ph="/**...*/" />
+              <marker date="1564233663517" expanded="false" signature="1099:1109" ph=" { " />
+              <marker date="1564233663517" expanded="false" signature="1126:1132" ph=" }" />
+              <marker date="1564233663517" expanded="true" signature="1207:1445" ph="{...}" />
+              <marker date="1564233663517" expanded="true" signature="1463:1489" ph="/**...*/" />
+              <marker date="1564233663517" expanded="false" signature="1619:1629" ph=" { " />
+              <marker date="1564233663517" expanded="false" signature="1658:1664" ph=" }" />
+              <marker date="1564233663517" expanded="true" signature="1739:2007" ph="{...}" />
+              <marker date="1564233663517" expanded="true" signature="2088:2638" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-LinkedHashMap.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-LinkedHashSet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-LinkedList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27075">
+            <caret line="1441" column="97" lean-forward="false" selection-start-line="1441" selection-start-column="97" selection-end-line="1441" selection-end-column="97" />
+            <folding>
+              <marker date="1573479104680" expanded="true" signature="15850:18554" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="16028:16173" ph="{...}" />
+              <marker date="1573479104680" expanded="false" signature="16207:16222" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="16246:16256" ph=" }" />
+              <marker date="1573479104680" expanded="true" signature="16282:16538" ph="{...}" />
+              <marker date="1573479104680" expanded="false" signature="16576:16591" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="16612:16622" ph=" }" />
+              <marker date="1573479104680" expanded="true" signature="16652:16918" ph="{...}" />
+              <marker date="1573479104680" expanded="false" signature="16950:16965" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="16982:16992" ph=" }" />
+              <marker date="1573479104680" expanded="false" signature="17028:17043" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="17064:17074" ph=" }" />
+              <marker date="1573479104680" expanded="true" signature="17105:17510" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="17541:17714" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="17745:17997" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="18064:18384" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="18430:18548" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="18589:18814" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="18704:18808" ph="{...}" />
+              <marker date="1573479104680" expanded="false" signature="19507:19522" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="19547:19557" ph=" }" />
+              <marker date="1573479104680" expanded="false" signature="19581:19596" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="19618:19628" ph=" }" />
+              <marker date="1573479104680" expanded="false" signature="19657:19672" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="19685:19695" ph=" }" />
+              <marker date="1573479104680" expanded="true" signature="19777:19947" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="22460:22523" ph="/**...*/" />
+              <marker date="1573479104680" expanded="true" signature="23131:23254" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="23283:23693" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="23730:23757" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="23800:24435" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="24502:25028" ph="{...}" />
+              <marker date="1573479104680" expanded="true" signature="25092:25559" ph="{...}" />
+              <marker date="1573479104680" expanded="false" signature="25597:25612" ph=" { " />
+              <marker date="1573479104680" expanded="false" signature="25682:25692" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-TreeSet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1280">
+            <caret line="667" column="22" lean-forward="false" selection-start-line="667" selection-start-column="22" selection-end-line="667" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-Hashtable.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="1636" column="3" lean-forward="false" selection-start-line="1636" selection-start-column="3" selection-end-line="1636" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-HashSet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="878">
+            <caret line="446" column="22" lean-forward="false" selection-start-line="446" selection-start-column="22" selection-end-line="446" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-HashMap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="3102" column="3" lean-forward="false" selection-start-line="3102" selection-start-column="3" selection-end-line="3102" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-TreeMap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="3762" column="3" lean-forward="false" selection-start-line="3762" selection-start-column="3" selection-end-line="3762" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-Vector.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="803">
+            <caret line="1678" column="13" lean-forward="false" selection-start-line="1678" selection-start-column="13" selection-end-line="1678" selection-end-column="13" />
+            <folding>
+              <marker date="1573480097877" expanded="true" signature="25612:25799" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="25626:25746" ph="//..." />
+              <marker date="1573480097877" expanded="true" signature="25825:26141" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="26172:26508" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="26593:27423" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="27469:27587" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="27718:27778" ph="{...}" />
+              <marker date="1573480097877" expanded="false" signature="27816:27831" ph=" { " />
+              <marker date="1573480097877" expanded="false" signature="27850:27860" ph=" }" />
+              <marker date="1573480097877" expanded="false" signature="27892:27907" ph=" { " />
+              <marker date="1573480097877" expanded="false" signature="27921:27931" ph=" }" />
+              <marker date="1573480097877" expanded="false" signature="27967:27982" ph=" { " />
+              <marker date="1573480097877" expanded="false" signature="28000:28010" ph=" }" />
+              <marker date="1573480097877" expanded="true" signature="28040:28344" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="28375:28610" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="28641:28915" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="32876:32915" ph="/**...*/" />
+              <marker date="1573480097877" expanded="true" signature="33276:33331" ph="/**...*/" />
+              <marker date="1573480097877" expanded="true" signature="33461:33653" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="33686:34024" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="34067:34317" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="34420:34840" ph="{...}" />
+              <marker date="1573480097877" expanded="true" signature="34946:35863" ph="{...}" />
+              <marker date="1573480097877" expanded="false" signature="35899:35914" ph=" { " />
+              <marker date="1573480097877" expanded="false" signature="35949:35959" ph=" }" />
+              <marker date="1573480097877" expanded="false" signature="35997:36012" ph=" { " />
+              <marker date="1573480097877" expanded="false" signature="36082:36092" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-12-LinkedHashMap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="753" column="3" lean-forward="false" selection-start-line="753" selection-start-column="3" selection-end-line="753" selection-end-column="3" />
+            <folding>
+              <marker date="1573479869971" expanded="false" signature="2357:2372" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="2402:2412" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="10137:10153" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="10202:10233" ph="{...}" />
+              <marker date="1573479869971" expanded="false" signature="10277:10292" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="10323:10333" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="10382:10408" ph="{...}" />
+              <marker date="1573479869971" expanded="false" signature="10456:10471" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="10532:10542" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="10594:10808" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="10871:11202" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="11720:11736" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="11785:11816" ph="{...}" />
+              <marker date="1573479869971" expanded="false" signature="11860:11875" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="11908:11918" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="11967:11995" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="12046:12193" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="12256:12589" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="13088:13104" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="13153:13184" ph="{...}" />
+              <marker date="1573479869971" expanded="false" signature="13241:13256" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="13289:13299" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="13348:13640" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="13687:13999" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="14063:14277" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="14353:14680" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="15964:17098" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="16107:16212" ph="{...}" />
+              <marker date="1573479869971" expanded="false" signature="16252:16267" ph=" { " />
+              <marker date="1573479869971" expanded="false" signature="16287:16297" ph=" }" />
+              <marker date="1573479869971" expanded="true" signature="16349:16668" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="16705:17092" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17192:17261" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17224:17255" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17357:17423" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17389:17417" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17532:17605" ph="{...}" />
+              <marker date="1573479869971" expanded="true" signature="17577:17599" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-BitSet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="1369" column="3" lean-forward="false" selection-start-line="1369" selection-start-column="3" selection-end-line="1369" selection-end-column="3" />
+            <folding>
+              <marker date="1573479930285" expanded="false" signature="25594:25613" ph=" { " />
+              <marker date="1573479930285" expanded="false" signature="25631:25645" ph=" }" />
+              <marker date="1573479930285" expanded="true" signature="25702:25965" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-ArrayDeque.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="3" />
+            <folding>
+              <marker date="1573479869977" expanded="true" signature="13337:15136" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="13347:13393" ph="/**...*/" />
+              <marker date="1573479869977" expanded="true" signature="13438:13482" ph="/**...*/" />
+              <marker date="1573479869977" expanded="true" signature="13526:13605" ph="/**...*/" />
+              <marker date="1573479869977" expanded="true" signature="13673:13688" ph=" { " />
+              <marker date="1573479869977" expanded="true" signature="13711:13721" ph=" }" />
+              <marker date="1573479869977" expanded="true" signature="13747:14289" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="13934:14053" ph="//..." />
+              <marker date="1573479869977" expanded="true" signature="14320:14624" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="14691:15130" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="15198:16308" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="15527:15542" ph=" { " />
+              <marker date="1573479869977" expanded="true" signature="15565:15575" ph=" }" />
+              <marker date="1573479869977" expanded="true" signature="15601:16011" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="16042:16302" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="20601:20666" ph="/**...*/" />
+              <marker date="1573479869977" expanded="true" signature="20732:20836" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="20869:21066" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="21112:21454" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="21523:22011" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="22077:22602" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="22639:22784" ph="{...}" />
+              <marker date="1573479869977" expanded="true" signature="22841:22973" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-PriorityQueue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <folding>
+              <marker date="1573479164508" expanded="true" signature="5509:5592" ph="/.../" />
+              <marker date="1573479164508" expanded="true" signature="9610:9663" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="9705:9828" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="9872:10102" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="10191:10238" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="10285:10358" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="10442:10554" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="10619:11111" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="11142:11934" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="18232:18287" ph="/**...*/" />
+              <marker date="1573479164508" expanded="true" signature="18416:18572" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="18605:18836" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="18892:19147" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="19253:20297" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="20361:20956" ph="{...}" />
+              <marker date="1573479164508" expanded="true" signature="20992:21007" ph=" { " />
+              <marker date="1573479164508" expanded="true" signature="21042:21052" ph=" }" />
+              <marker date="1573479164508" expanded="true" signature="21090:21105" ph=" { " />
+              <marker date="1573479164508" expanded="true" signature="21175:21185" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-ArrayList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-Stack.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-ReentrantReadWriteLock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="868">
+            <caret line="1451" column="4" lean-forward="false" selection-start-line="1451" selection-start-column="4" selection-end-line="1451" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-AbstractQueuedSynchronizer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="2136" column="3" lean-forward="false" selection-start-line="2136" selection-start-column="3" selection-end-line="2136" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-ReentrantLock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3078">
+            <caret line="700" column="57" lean-forward="false" selection-start-line="700" selection-start-column="57" selection-end-line="700" selection-end-column="57" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-CyclicBarrier.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="449" column="31" lean-forward="false" selection-start-line="449" selection-start-column="31" selection-end-line="449" selection-end-column="31" />
+            <folding>
+              <marker date="1573480857108" expanded="true" signature="629:968" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="668:684" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="708:963" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="1005:1481" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="1103:1143" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="1123:1142" ph="{...}" />
+              <marker date="1573480857108" expanded="true" signature="2077:2230" ph="/**...*/" />
+              <marker date="1573480857108" expanded="true" signature="2312:2323" ph="/**...*/" />
+              <marker date="1573480857108" expanded="true" signature="2388:2400" ph="/**...*/" />
+              <marker date="1573480857108" expanded="true" signature="2461:2489" ph="/**...*/" />
+              <marker date="1573480857108" expanded="true" signature="2610:2639" ph="/**...*/" />
+              <marker date="1573480857108" expanded="true" signature="2699:2754" ph="/**...*/" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-Semaphore.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="617" column="51" lean-forward="false" selection-start-line="617" selection-start-column="51" selection-end-line="617" selection-end-column="51" />
+            <folding>
+              <marker date="1573480892502" expanded="true" signature="676:744" ph="{...}" />
+              <marker date="1573480892502" expanded="true" signature="779:839" ph="{...}" />
+              <marker date="1573480892502" expanded="true" signature="1094:1272" ph="{...}" />
+              <marker date="1573480892502" expanded="true" signature="1334:1575" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-CountDownLatch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <folding>
+              <marker date="1573480935909" expanded="true" signature="837:1341" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="889:1338" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="1380:1811" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="1536:1614" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="1636:1782" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="1801:1808" ph="{}" />
+              <marker date="1573480935909" expanded="true" signature="1986:2302" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="2038:2299" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="2346:2696" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="2468:2526" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="2548:2667" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="2686:2693" ph="{}" />
+              <marker date="1573480935909" expanded="true" signature="2807:2850" ph="/**...*/" />
+              <marker date="1573480935909" expanded="true" signature="3023:3047" ph=" { " />
+              <marker date="1573480935909" expanded="true" signature="3063:3073" ph=" }" />
+              <marker date="1573480935909" expanded="true" signature="3097:3121" ph=" { " />
+              <marker date="1573480935909" expanded="true" signature="3139:3149" ph=" }" />
+              <marker date="1573480935909" expanded="true" signature="3203:3236" ph=" { " />
+              <marker date="1573480935909" expanded="true" signature="3270:3280" ph=" }" />
+              <marker date="1573480935909" expanded="true" signature="3339:3679" ph="{...}" />
+              <marker date="1573480935909" expanded="true" signature="3341:3412" ph="//..." />
+              <marker date="1573480935909" expanded="true" signature="3721:3988" ph="/**...*/" />
+              <marker date="1573480935909" expanded="true" signature="4026:4142" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-FutureTask.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="617" column="3" lean-forward="false" selection-start-line="617" selection-start-column="3" selection-end-line="617" selection-end-column="3" />
+            <folding>
+              <marker date="1573480996821" expanded="false" signature="587:1171" ph="/.../" />
+              <marker date="1573480996821" expanded="true" signature="9664:9700" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-AtomicMarkableReference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="879">
+            <caret line="247" column="3" lean-forward="false" selection-start-line="247" selection-start-column="3" selection-end-line="247" selection-end-column="3" />
+            <folding>
+              <marker date="1573481072161" expanded="true" signature="571:652" ph="{...}" />
+              <marker date="1573481072161" expanded="false" signature="709:724" ph=" { " />
+              <marker date="1573481072161" expanded="false" signature="760:770" ph=" }" />
+              <marker date="1573481072161" expanded="true" signature="818:973" ph="/**...*/" />
+              <marker date="1573481072161" expanded="true" signature="1043:1054" ph=" { " />
+              <marker date="1573481072161" expanded="true" signature="1094:1100" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-StampedLock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+            <folding>
+              <marker date="1573480569261" expanded="true" signature="1927:2083" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="2116:2475" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="2526:3003" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="2528:2592" ph="//..." />
+              <marker date="1573480569261" expanded="true" signature="4506:4517" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="4863:4886" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="4898:4919" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="4968:4996" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="5195:5205" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="5253:5276" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="5324:5360" ph="/**...*/" />
+              <marker date="1573480569261" expanded="true" signature="5385:5396" ph=" { " />
+              <marker date="1573480569261" expanded="true" signature="5427:5433" ph=" }" />
+              <marker date="1573480569261" expanded="false" signature="17689:17729" ph="/.../" />
+              <marker date="1573480569261" expanded="false" signature="19093:19312" ph="/.../" />
+              <marker date="1573480569261" expanded="true" signature="20378:20939" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20407:20422" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20491:20539" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20573:20604" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20702:20763" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20793:20819" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="20859:20881" ph=" { " />
+              <marker date="1573480569261" expanded="true" signature="20923:20933" ph=" }" />
+              <marker date="1573480569261" expanded="true" signature="20994:21560" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21023:21039" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21108:21157" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21191:21223" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21321:21383" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21413:21440" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21480:21502" ph=" { " />
+              <marker date="1573480569261" expanded="true" signature="21544:21554" ph=" }" />
+              <marker date="1573480569261" expanded="true" signature="21621:21751" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21663:21687" ph="{...}" />
+              <marker date="1573480569261" expanded="true" signature="21720:21745" ph="{...}" />
+              <marker date="1573480569261" expanded="false" signature="23016:23208" ph="/.../" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-11-AtomicStampedReference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4123">
+            <caret line="219" column="3" lean-forward="false" selection-start-line="219" selection-start-column="3" selection-end-line="219" selection-end-column="3" />
+            <folding>
+              <marker date="1573481090985" expanded="true" signature="574:657" ph="{...}" />
+              <marker date="1573481090985" expanded="false" signature="711:726" ph=" { " />
+              <marker date="1573481090985" expanded="false" signature="763:773" ph=" }" />
+              <marker date="1573481090985" expanded="true" signature="883:894" ph=" { " />
+              <marker date="1573481090985" expanded="true" signature="935:941" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
