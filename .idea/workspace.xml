@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="61fa7e9a-3089-4e92-905e-26f5d4223195" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,11 +208,6 @@
               <item name="zhazige.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhazige.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="zhazige.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhazige.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -377,7 +370,7 @@
       <workItem from="1564658431840" duration="16000" />
       <workItem from="1565797999600" duration="18000" />
       <workItem from="1573478711183" duration="1621000" />
-      <workItem from="1573480470903" duration="619000" />
+      <workItem from="1573480470903" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="更新文章">
       <created>1557677661257</created>
@@ -397,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67118000" />
+    <option name="totallyTimeSpent" value="67721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="958" y="23" width="1090" height="1063" extended-state="0" />
