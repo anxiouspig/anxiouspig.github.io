@@ -1,10 +1,10 @@
 # Site settings
-title: 渣子哥
-SEOTitle: 渣子哥 | Dabiezi
+title: anxious pig
+SEOTitle: anxious pig
 header-img: img/animal-africa-giraffe.jpg
 email: zhazige@gmail.com
-description: " 渣子哥 | Dabiezi | Java"
-keyword: "渣子哥, Dabiezi"
+description: " anxious pig | Java"
+keyword: "anxious pig"
 url: "http://dabiezi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/dabiezi/dabiezi.github.io.git" # you code repository
