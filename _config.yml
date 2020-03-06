@@ -2,12 +2,12 @@
 title: anxious pig
 SEOTitle: anxious pig
 header-img: img/animal-africa-giraffe.jpg
-email: zhazige@gmail.com
+email: xuxuffcc@gmail.com
 description: " anxious pig | Java"
 keyword: "anxious pig"
-url: "http://dabiezi.github.io"          # your host, for absolute URL
+url: "http://anxiouspig.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/dabiezi/dabiezi.github.io.git" # you code repository
+github_repo: "https://github.com/anxiouspig/anxiouspig.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-D-gentle.jpeg     # use absolute URL, seeing it's use
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    dabiezi
+github_username:    anxiouspig
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: c983fc97fd8703ea73ad                            #生成的clientID
   clientSecret: f436a2112652ff3f26870b4ad11261285f7e9572    #生成的clientSecret
-  repo: dabiezi.github.io    #仓库名称
-  owner: dabiezi    #github用户名
-  admin: dabiezi
+  repo: anxiouspig.github.io    #仓库名称
+  owner: anxiouspig    #github用户名
+  admin: anxiouspig
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-137503773-2'            # Format: UA-xxxxxx-xx
-ga_domain: zhazige.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: blog.anxiouspig.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
