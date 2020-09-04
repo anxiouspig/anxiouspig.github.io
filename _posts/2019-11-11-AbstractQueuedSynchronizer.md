@@ -3,7 +3,7 @@ layout:     post
 title:      AbstractQueuedSynchronizer
 subtitle:   AbstractQueuedSynchronizer
 date:       2019-11-11
-author:     渣子哥
+author:     anxious pig
 header-img: img/pexels-photo-1936936.jpeg
 catalog: true
 tags:
@@ -1362,7 +1362,7 @@ arg - 获取的参数。这个值传递给tryAcquire(int)，否则是非阻断�
         return list;
     }
 
-```返回一个集合，其中包含可能正在等待以独占模式获取的线程。它具有与getQueuedThreads()相同的属性，只是它只返回那些由于独占获取而等待的线程。
+​```返回一个集合，其中包含可能正在等待以独占模式获取的线程。它具有与getQueuedThreads()相同的属性，只是它只返回那些由于独占获取而等待的线程。
 
 
 
@@ -1371,7 +1371,7 @@ arg - 获取的参数。这个值传递给tryAcquire(int)，否则是非阻断�
 
 
 ## getSharedQueuedThreads
-```java
+​```java
     public final Collection<Thread> getSharedQueuedThreads() {
         ArrayList<Thread> list = new ArrayList<Thread>();
         for (Node p = tail; p != null; p = p.prev) {

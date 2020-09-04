@@ -3,7 +3,7 @@ layout:     post
 title:      LinkedList
 subtitle:   LinkedList
 date:       2019-11-11
-author:     渣子哥
+author:     anxious pig
 header-img: img/pexels-photo-1936936.jpeg
 catalog: true
 tags:
